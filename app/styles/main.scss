@@ -175,6 +175,7 @@ body {
 .quoteheader, .codeheader, .nwsheader, .spoilerheader, .tldrheader
 {
   padding: 5px 8px;
+  background-image: url('images/cockhead.png');
   background-repeat: no-repeat;
   background-position: right;
   text-decoration: none;
@@ -185,6 +186,7 @@ body {
 
 .codeheader
 {
+  background-image: url('images/glasses.png');
   background-color: #DDD;
   border: 1px solid #242424;
   border-left: 3px solid #242424;
@@ -198,6 +200,7 @@ body {
 
 .nwsheader
 {
+  background-image: url('images/lilies.png');
   background-color: #EEE3E8;
   border: 1px solid #AE8EAC;
   border-left: 3px solid #AE8EAC;
@@ -215,6 +218,7 @@ body {
 
 .spoilerheader
 {
+  background-image: url('images/aeris.png');
   border: 1px solid black;
   border-left: 3px solid black;
   background-color: #454545;
@@ -232,6 +236,7 @@ body {
 
 .tldrheader
 {
+  background-image: url('images/tree.png');
   border: 1px solid #242424;
   border-left: 3px solid #242424;
   background-color: #F0EFE9;
